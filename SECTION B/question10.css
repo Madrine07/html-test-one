@@ -1,0 +1,21 @@
+input{
+    width: 300px;
+    margin: 10px;
+}
+label{
+    margin: 10px;
+}
+select{
+    margin: 10px;
+}
+h3{
+    margin: 10px;
+}
+.Btn{
+    background-color: green;
+    color: white;
+}
+body{
+    text-align: center;
+    background-color: azure;
+}
